@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+notebooks/NIPS_1987-2015.csv
+src/.DS_Store
