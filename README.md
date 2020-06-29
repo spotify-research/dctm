@@ -11,7 +11,7 @@ To get started in using our code, simply follow this steps:
 
 or simply copy-paste the following commands on a terminal
 ```bash
-git clone https://github.com/spotify-research/dctm.git`
+git clone https://github.com/spotify-research/dctm.git
 cd dctm
 pip install -r requirements.txt
 pip install .
