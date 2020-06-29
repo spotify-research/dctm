@@ -17,7 +17,9 @@ pip install -r requirements.txt
 pip install .
 ```
 
-* Mailing List: opensource@spotify.com
+##  Examples
+
+An example on how to use the code is documented in the notebooks [here](https://github.com/spotify-research/dctm/tree/master/notebooks).
 
 ## Support
 
