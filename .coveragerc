@@ -1,0 +1,19 @@
+[run]
+branch = True
+source =
+    dctm
+
+[paths]
+source =
+   src/dctm
+   .tox/*/lib/python*/site-packages/dctm
+   .tox/pypy/site-packages/dctm
+
+[report]
+show_missing = True
+exclude_lines =
+    pragma: no cover
+    if __name__ == .__main__.:
+
+[xml]
+output = cobertura/coverage.xml

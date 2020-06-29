@@ -31,8 +31,8 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_probability as tfp
 
-import correlated_topic_model
-import variational_wishart_process as vwp
+from dctm import correlated_topic_model
+from dctm import variational_wishart_process as vwp
 
 tfb = tfp.bijectors
 tfd = tfp.distributions

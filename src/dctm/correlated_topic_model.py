@@ -25,7 +25,7 @@ import tensorflow as tf
 import tensorflow_probability as tfp
 from tensorflow.compat import v1 as tf1
 
-from relaxed_latent_dirichlet_allocation import RelaxedLDA
+from dctm.relaxed_latent_dirichlet_allocation import RelaxedLDA
 
 tfd = tfp.distributions
 tfb = tfp.bijectors

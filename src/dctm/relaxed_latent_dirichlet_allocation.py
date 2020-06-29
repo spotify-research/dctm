@@ -30,7 +30,7 @@ import tensorflow as tf
 import tensorflow_probability as tfp
 from sklearn import metrics as skm
 
-import encoder
+from dctm import encoder
 
 tfd = tfp.distributions
 tfb = tfp.bijectors

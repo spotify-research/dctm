@@ -1,0 +1,9 @@
+pandas>=1.0
+matplotlib>=3.0
+nltk>=3
+scipy>=1
+numpy>=1.14
+tqdm
+scikit_learn>=0.22
+tensorflow>=2.2.0
+tensorflow_probability>=0.10.0
