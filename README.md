@@ -17,6 +17,8 @@ pip install -r requirements.txt
 pip install .
 ```
 
+To try out our notebooks, you also need to install [Jupyter](https://jupyter.org/install).
+
 ##  Examples
 
 An example on how to use the code is documented in the notebooks [here](https://github.com/spotify-research/dctm/tree/master/notebooks).
